@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Create a React Component folder with default file settings in Voldemort",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcvegab/create-rc-folder.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
