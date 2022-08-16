@@ -20,7 +20,7 @@ const createRCFolder = (
 
   /* Creating index export React Component File */
   fs.writeFile(
-    `${selectedDir}/index.tsx`,
+    `${selectedDir}/index.ts`,
     `export { default } from './${componentName}';\n`,
     (err) => {
       if (err) throw err;
