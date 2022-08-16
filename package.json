@@ -16,6 +16,12 @@
   "bin": {
     "create-rc-folder": "./index.js"
   },
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "require": "./index.js"
+    }
+  },
   "dependencies": {
     "yargs": "^17.5.1"
   }

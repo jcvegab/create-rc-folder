@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const yargs = require('yargs');
 
 const { createRCFolder } = require('./create-rc-folder');
