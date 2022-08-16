@@ -1,0 +1,22 @@
+{
+  "name": "create-rc-folder",
+  "version": "1.0.0",
+  "description": "Create a React Component folder with default file settings in Voldemort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "script",
+    "react",
+    "folder"
+  ],
+  "author": "Joseph Vega <joseph.vega@lernit.com.mx> (https://jcvegab.site/)",
+  "license": "ISC",
+  "bin": {
+    "create-rc-folder": "./index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
