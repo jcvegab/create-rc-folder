@@ -36,7 +36,7 @@ const createRCFolder = (
     
     const ${componentName} = (props: ${componentName}Props) => {
       const {} = props;
-      return (<div className={css.${componentName}}></div>);
+      return (<div className={css.${componentName.toLowerCase()}}></div>);
     };
     
     export default ${componentName};\n`,
