@@ -16,12 +16,12 @@ This command generates this files:
 - index.ts
 
 
--> Generated `Button.tsx` File:
+-> Generated `index.ts` File:
 ```
 export { default } from './Button';
 ```
 
--> Generated `Button.module-scss` File:
+-> Generated `Button.module.scss` File:
 ```
 .button{};
 ```
