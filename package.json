@@ -1,6 +1,6 @@
 {
   "name": "create-rc-folder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create a React Component folder with default file settings in Voldemort",
   "main": "index.js",
   "repository": {
